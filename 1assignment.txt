@@ -1,0 +1,68 @@
+Q1. Who developed Python Programming Language?
+  Guido Van Rossum
+
+
+
+Q2. Which type of programming does Python Suppport?
+ Python is flexiable language, It supports Object Oriented Language and 
+Structured Language(Scripting).
+
+
+Q3. Is Python is case sensitive while dealing with identifiers?
+Yes, Python is case sensitive language.
+
+Q4. What is the correct extension of Python File ?
+Extension is - .py
+
+
+Q5. Is Python is compiled or interpreted?
+Python is interpretd language, In this first sourcecode is converted in  bytecode then it executed.
+It executed code directly & easily.
+
+Q6. Name a few bocks of code used to define in Python Language?
+	if(condition):
+		#print("when if is true)
+			if(Condition)
+				#print("When if it is true")
+	elif(condition):
+		#print("statement")
+	else:
+		#print("statement")
+
+Q7. State a character used to give single-line comments in Python?
+
+	# is used for single lime comment.
+	apply --1. select all area in which comment is aplied.
+	2. ctrl+ /
+Q8.Mention functions which  help us to find the version of python that we are currently working in?
+  
+		from platform import python_version 
+		python_version()
+Q9. Python supports the creation of anonymous function at runtime, using the constuct called__?
+ 	Lambda
+Q10. What does pip stand for Python ?
+	Preferred Installer Program
+
+Q11. Mention  a few built -in function in Python?
+
+bool()- return either true or false.
+type()- type of the data type.
+Q12. What is the maximum possible length of an identifier in Python ?
+
+	79 characters 
+Q13. What are the benefits of using  Python?
+- simple and easy to earn 
+- Portable & Extensible
+- OOPS Programming
+-A.I  & ML Alogorithm
+
+Q14. How is memory managed in Python?
+In Python  memory is managed by heap.
+
+Q15.  How to install Python on Windows and set path variable?
+
+-Locate where python is being instaled,click open file location and copy location path from top 
+ by clicking over it.
+Q16 Is identation required in Python ?
+- In python indentation used to indicate the block of code.
+
